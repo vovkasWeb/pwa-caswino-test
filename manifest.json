@@ -16,5 +16,11 @@
 			"sizes": "512x512",
 			"type": "image/png"
 		}
-	]
+	],
+	"id": "caswino",
+	"description": "gjkjgjkgkjgkj",
+	"dir": "auto",
+	"scope": "caswino",
+	"lang": "en",
+	"orientation": "any"
 }
